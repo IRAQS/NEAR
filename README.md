@@ -1,7 +1,7 @@
 # Digital Readiness Assessment
 The Digital Nation Dashboard is key part of product. The tool provides rapid, high-level insights into a country's digital strengths and weaknesses. Intended as an "entry point" for increased engagement between governments, UNDP country offices, and a broad range of digital transformation experts. Through the lens of UNDP's Inclusive Whole-of-Society Digital Transformation Framework.
 * Video Explanation: [![Digital Readiness Assessment Video Explanation](https://img.youtube.com/vi/EWJrX96TTo4/0.jpg)](http://www.youtube.com/watch?v=EWJrX96TTo4)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/813db135-fe75-4eb4-8863-de92ba228abe/deploy-status)](https://app.netlify.com/sites/magical-syrniki-6b2ea8/deploys)
 # Digital Transformation Framework
 Based on 
 <br>
